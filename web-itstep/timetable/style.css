@@ -1,0 +1,39 @@
+.lesson_number{
+    /*border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;*/
+    border: 0px;
+}
+.weekday_th{
+    border: 0em ;
+    border-radius: 16px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: rgb(156, 190, 246);
+}
+td{
+    border: 0px;
+    background-color: rgb(156, 190, 246);
+}
+tr{
+     box-shadow: 0px 2px 0px 0px rgba(173, 172, 172, 0.99);
+}
+.main_th
+{
+    font-weight: normal;
+    color:darkgray;
+}
+div{
+    text-align: center;
+}
+.subject
+{
+    color: slateblue;
+}
+.lesson_number
+{
+    color: slateblue;
+    font-weight: bold;
+}
