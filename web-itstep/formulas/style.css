@@ -1,0 +1,46 @@
+h1
+{
+    text-align: center;
+    font-family: "Segoe UI", Calibri;
+    margin-top:0;
+    border-top:0;
+    padding: 0px;
+}
+h2
+{
+    text-align: center;
+    font-family: "Segoe UI", Calibri;
+}
+h3
+{
+    text-align: center;
+    font-family: "Segoe UI", Calibri;
+}
+.center-img
+{
+    display: block;
+    margin: 0 auto;
+}
+.main-text
+{
+    font-family: Arial, Calibri;
+    font-size: 18px;
+    text-align: center;
+}
+header{
+    background-color: blue;
+    margin-top:0;
+    border-top: 0;
+    color:white;
+    text-align: center;
+}
+.div1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: center;
+}
+a {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+   }
