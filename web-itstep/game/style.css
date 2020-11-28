@@ -1,0 +1,10 @@
+html{
+    background: url("media/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+#description
+{
+    float: right;
+    width: 400px;
+    height: 100vh;
+}
