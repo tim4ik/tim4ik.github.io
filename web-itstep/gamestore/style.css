@@ -1,0 +1,30 @@
+.fallen-order{
+    background: url("media/fallen-order/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.valhalla{
+    background: url("media/valhalla/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.nfs-heat{
+    background: url("media/nfs-heat/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.forza{
+    background: url("media/forza/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.fifa{
+    background: url("media/fifa/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.ufc{
+    background: url("media/ufc/large.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.game-page
+{
+    float: right;
+    width: 400px;
+    height: 100vh;
+}
