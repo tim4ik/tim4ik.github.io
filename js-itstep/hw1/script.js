@@ -1,0 +1,24 @@
+let myname=prompt("Name?");
+alert('Hello, '+ myname);
+const year=2021
+let birth=prompt("Birth year?");
+alert("Age: "+(year-birth));
+let side=prompt("Side size?");
+alert("Perimeter: "+4*side);
+let radius=prompt("Radius?");
+alert("Area: "+radius*radius*3.14);
+let distance=prompt("Distance?");
+let time=prompt("Time?");
+alert("Speed: "+distance/time);
+const curr=0.82;
+let usd=prompt("USD?");
+alert("EUR: "+usd*0.82);
+let capacity=prompt("GB?");
+alert("Files: "+Math.floor(1000*capacity/820));
+let wallet=prompt("Money in wallet?");
+let chocolate=prompt("Chocolate price?");
+alert(Math.floor(wallet/chocolate)+" chocolates, "+wallet%chocolate+" money left.");
+let number=prompt("Number?");
+alert('\u202E' + number);
+number=prompt("Number?");
+alert("Is even: "+number%2);
